@@ -1,0 +1,8 @@
+- name: Crypto
+  link: /crypto.html
+- name: Web
+  link: /web.html
+- name: Writeups
+  link: /writeups.html
+
+
