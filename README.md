@@ -17,4 +17,4 @@ Hosted at <blog.lukegrippa.com>
 # Contact:
 
 
-Feel free to email me at <lukegrippa5@gmail.com> with any questions.
+Feel free to email me at lukegrippa5@gmail.com with any questions.
