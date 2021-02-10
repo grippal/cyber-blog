@@ -3,7 +3,7 @@
 Hello! <br>
 This is my personal cybersecurity blog. <br>
 Here you can find write-ups for CTF challenges, articles about certain topics and even quick notes about different things that I want to remember.<br>
-Hosted at blog.lukegrippa.com
+Hosted at [blog.lukegrippa.com](blog.lukegrippa.com)
 
 # Tech Used:
 
